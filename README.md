@@ -32,3 +32,4 @@ Setup SRE computers
 - `kubens`
 - `aws okta`
 - `configure ssh`
+- `fzf`

@@ -35,7 +35,9 @@ software = (
     #Install K8s Tools
     "brew install k9s",
     "brew install kubectx",
-    "brew install kubectl"
+    "brew install kubectl",
+
+    "brew install fzf"
 )
 
 def installSoftware():
