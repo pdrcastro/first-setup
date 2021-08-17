@@ -1,4 +1,4 @@
-# Script first-setup-olx for new SRE OLX computers
+# Script first-setup for new SRE computers
 Setup SRE computers
 
 ## Supported platforms:
