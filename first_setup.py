@@ -38,6 +38,8 @@ software = (
     "brew install kubectl",
 
     "brew install fzf"
+    
+    "brew install kube-ps1"
 )
 
 def installSoftware():
